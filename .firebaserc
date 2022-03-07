@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "open-nation-simulation": {
+      "hosting": {
+        "ons": [
+          "open-nation-simulation"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "open-nation-simulation"
+  }
+}
